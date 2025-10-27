@@ -6,10 +6,19 @@ Topic: **X**
 * Text
 
 ## Part A: existing technology
-* Tec
+* Tech
   * Detail
   * [image text](image URL)
 
 ## Part B: possible future technology
 * Idea
   * Detail
+
+Did you know that in the Buisness world they use Pen scanners
+* The Pen scanners are portable
+* They are used by administrative professional
+* They quickly digitilize physical documents
+* examples could be resumes,buisness cards, and hand written notes
+* the text that is scanned can be converted into searchable and editable files
+* https://www.mbreviews.com/wp-content/uploads/2018/01/c-pen-reader-1.jpg is what a Pen scanner looks like
+* 
