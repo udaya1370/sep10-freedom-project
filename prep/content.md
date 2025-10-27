@@ -6,7 +6,7 @@ Topic: **X**
 * Text
 
 ## Part A: existing technology
-* Tech
+* Tec
   * Detail
   * [image text](image URL)
 
