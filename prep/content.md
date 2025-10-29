@@ -27,3 +27,6 @@ Did you know that in the Buisness world they use Pen scanners
 * Cool fact Pen scanners were origonally ment for people who were dyslexic and other certain disabiltiys
 * There is also a type of Pen scanners that can search up barcodes
 * Pen scanners have a massive vocabulary
+* sometimes the penscanners can be to low in volume and might require headphones
+* A bad thing about pen scanners is that it loses battery pretty fast having to charge it occasionally.
+* Pen scanners are on the expensive size for the limited things that they can do which costs from 50 dollars all the way to 250!
