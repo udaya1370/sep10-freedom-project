@@ -34,7 +34,7 @@ What if they used this technology and make it be able to identify people, animal
   * Identify if they have been in jail before
   * Identify their record
   * Is used for the CIA and FBI
-  * To identify GOod things the person has done
+  * To identify Good things the person has done
   * Identify their disabilties if they have
   * Identify what medications and or if they use medications
   * if in combat be able to detect the enemies location
