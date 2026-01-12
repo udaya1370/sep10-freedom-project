@@ -1,52 +1,48 @@
 # Process Writeup
 
-## Name: Caleb G
+## Name: Uday A
 ## Course: SEP 10
-## Period: 5
-## Concept: HTML
+## Period: 2
+## Concept: CLI
 
 ### Section: Context
- In the software engineering program we began HTML. HTML is a vital part of our end of year project and learning it was incredibly important. The goal was to be able to understand HTML enough to create basic websites. When using HTMl we learned it stands for Hypertext Mark-Up Language, and how important it is for every website you have ever used. We learned,
-* HTML skeleton
-* Closing tags and opening tags
-* Div traits
-* Radio buttons
-* How to make clickable images and links
-* Label inputs
+ In the software engineering program so far we started to learn CLI and CLI commands. learning CLI was incredibly important due to us using for the rest of the year CLI we will be using it to complete assignments and other things. The goal was to be able to understand CLI to learn how to use cs50.dev . When learning CLI we learned it stands for Command lline-interface, and how important it is for every assignment we may do in the future. We learned,
+* (ls) which lists the current files we are currently on at the time to check where we are in between files like double checking
+* (mkdir) which make a directory like a file to work with and youcan name it to what you want it to be named.
+* (rmdir) which is to remove a directory/file which is important to understand just in case you made a file or directory you dont want
+* (mv) which renames another file only if one of two files already exist but if both files exist the first file you put would go under the second file you put
+* (rm -rf) which delete the directory you put next to it and deletes whatever is in it no matter what.
+* (cd) which is the  most important command to switch from other directorys and or files.
 
-Learning all of this in a short period of time came with its challenges. Most challenging for me was making clickable links and jumping to the bottoms of pages.
+Learning all of this in a short period of time came with its challenges. Most challenging for me was to understand how exactly mv worked in moving files and changing their names.
 
 ### Goal
-The main goal was to understand basic HTMl concepts but specifically for me I wanted to understand how to make clickable links and internal links. One specific project is when we tried to recreate a website page during a coding challenge.
+The main goal was to understand CLI concepts but specifically for me I wanted to understand how to make files and how i could organize them. One specific project is when we tried to recreate a tree of files in order and in the shortest usage of lines of code.
 
 ### Process
-To recreate the basic website, me and my partner split up the work evenly. We decided that I would take the creating the 
-```HTML
-<p></p>
+To make the shortest line of code to make the tree correctly, me and my partner split up the work evenly. We decided that I would take the creating the 
+lines of code
+mkdir (something) cd (something) mkdir (something2) mkdir (something3) and so on
 ```
-Tags and different indentations. My partner took the
-```HTMl
-<div></div>
-```
-Tags. We decided that she would take the Radio Button and I would do the clickable link. We worked through all of the easy stuff until we got to the radio buttons and clickable link. We had to refer to Free Code Camp everytime we had a question. The question that we had trouble answering is how to make the Radio buttons go vertically. Ultimately we understood and got it.
+ My partner tested the code and used
+ls (something) cd (something) ls (something1 something 3)
+to fact check We decided that he would help correct me on mistakes and I would do the work again and look over my errors. We worked through all of the easy stuff until we noticed that we couldn't go back to the parent directory. We had to refer to our unit 2 notes everytime we had a question. The question that we had trouble answering is how to go to the parent directory. Ultimately we understood and got it.
 
 ### Challenge 1
 The first challenge I faced was with
-```HTML
-<a href="https://apcentral.collegeboard.org/courses/ap-computer-science-a">
-```
-When trying to make it a clickable link it wasn't going to the image. I sat for 30 minutes going over Free Code Camp lessons and different notes to try and understand why it wasn't attached. When I asked my partner she looked and realized I was missing a target value.
-```HTMl
- <a href="https://apcentral.collegeboard.org/courses/ap-computer-science-a" target="img">
-```
-When I added the target value I was ecstatic to realize that it started working. I then quickly worked through the rest of the code to create the img tag and make it connected. Then I tried it out and realized that it didn't work. That problem was quickly resolved when I realized I missed a letter while copy and pasting.
+mkdir (something) 
 
-### Challenge 2
-The second and final challenge we faced was to correctly figure out the Radio Buttons. Radio buttons were one of the hardest topics for me to understand. My partner struggled as well to make the radio buttons look good. When trying to name them we worked hard but they refused to cooperate.
-```HTML
-  <input id="IOS" value="IOS" type="radio" name="topic" >
+When trying to make a directory I kept misspelling mkdir and it wasn't working. I sat for 10 minutes going over my notes to try and understand why it wasn't making the directory. When I asked my partner he looked and realized I was misspelling the code but now i wont make that mistake again.
+```CLI
+ cd (back to parent directory)
 ```
-We thought that the Input ID would be the name value. So we created 3 of them but quickly realized the names weren't correct. So we went back to our notes and asked other friends if they could check our work. Eventually one of our friends helped us realize that at the end of the code you need the name of the button. We changed the name of all of our radio buttons to name them correctly. Then we saw that all the Radio buttons were vertical instead of vertically like the website we were trying to replicate. We tried putting them in ```label``` commands but that didn't work. So we pondered more and wondered if we could separate them with ```<P></P>``` so we added them.
+When I added a directory I realized that I didnt know how to get out of it and enter the parent directory. I then went through the notes i had and relized all i had to do was cd .. to get to the parent directory. Then I tried it out and realized that it worked. That problem was quickly resolved when I realized how to get back to the parent directory.
+### Challenge 2
+The second and final challenge we faced was to correctly figure out the comand line mv . using mv were one of the hardest topics for me to understand. My partner struggled as well to use mv correctly and effiectiently. When trying to name a file something else we accidently kept switching files over.
+```CLI
+  mv (happy) (angry) 
+```
+We thought that the command line mv would change the name of the directory. So we used mv but quickly realized the names weren't correct and that the files were just switched. So we went back to our notes and asked other friends if they could check our work. Eventually one of our friends helped us realize that if both files are already in existence they will jsut switch spots and not be renamed. We then used mv to rename the directory correctly by using the name and adding 1 next to it. Then we saw that all the files and directorys were corecttly placed so we were finally reliefed.
 ```HTML
     <p>Which of the following is Java used for?</p>
   <label> 
