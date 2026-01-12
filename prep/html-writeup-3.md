@@ -43,25 +43,48 @@ The second and final challenge we faced was to correctly figure out the comand l
   mv (happy) (angry) 
 ```
 We thought that the command line mv would change the name of the directory. So we used mv but quickly realized the names weren't correct and that the files were just switched. So we went back to our notes and asked other friends if they could check our work. Eventually one of our friends helped us realize that if both files are already in existence they will jsut switch spots and not be renamed. We then used mv to rename the directory correctly by using the name and adding 1 next to it. Then we saw that all the files and directorys were corecttly placed so we were finally reliefed.
-```HTML
-    <p>Which of the following is Java used for?</p>
-  <label> 
-      <input id="IOS" value="IOS" type="radio" name="topic" >IOS
-  </label>
-    <p></p>
-  <labeL>
-        <input id="Android" value="Android" type="radio" name="topic" >Andriod
-  </labeL>
-    <p></p>
-  <labeL>
-        <input id="Windows" value="Windows" type="radio" name="topic" >Windows
-  </labeL>
-    
-    <p></p>
+```CLI
+      0 ls
+   1 ls -l
+   2 cd
+   3 ls -l
+   4 exit
+   5 mkdir quadrilateral
+   6 ls
+   7 cd quadrilateral
+   8 mkdir parallelogram
+   9 mkdir trapezoid
+  10 ls
+  11 cd parallelogram
+  12 mkdir rhombus
+  13 mkdir rectangle
+  14 cd rhombus
+  15 square
+  16 cd ..
+  17 ls
+  18 cd rhombus
+  19 ls
+  20 mkdir square
+  21 ls
+  22 cd ..
+  23 cd rectangle
+  24 mkdir square
+  25 ls
+  26 cd ..
+  27 ls
+  28 cd trapezoid
+  29 mkdir iso-trapezoid
+  30 ls
+  31 cd ..
+  32 ls
+  33 cd ..
+  34 ls
+  35 history
+
 ```
-This separated the Radio buttons and allowed our radio buttons to be clear and concise.
+This allowed us to use command lines and to be clear and concise.
 ### Result
 The result ended is this:
-* [Command line Challenge](https://classroom.google.com/c/ODAxMzIzMTE0NDAy/a/ODM3MTg0MjEwOTQz/details)
+* [Command line Challenge](https://docs.google.com/document/d/1ekAJpSwjh__ymMjiNo1nLx-TBvLoEFS2fXpI1rw37aY/edit?tab=t.0)
 ### Takeaways
-This coding challenge taught me how important it is to reference notes and ask others. From now on I will try to take better notes for Free Code Camp lessons and what I don't understand. When I looked for the tags I was missing in my notes they were completely missing. I had to ask Essie and Simran to help me. I noticed they were able to help me because they had comprehensive notes that completely detailed what we learned. I plan to continue to update the HTML section of my notes to fill in the gaps of my knowledge. For the next Unit I will make sure to take notes on things I don't understand instead of having to be stuck and go back to Free Code Camp. 
+This Command line challenge taught me how important it is to reference notes and ask others. From now on I will try to take better notes for what i learn in class and what I don't understand to refer back to. When I looked for the command line controls I had in my notes they were absolutly useful in remebering command lines and their usage. I noticed my partners were able to help me because they had comprehensive notes that completely detailed what we learned. I plan to continue to use my notes and keep adding to fill in the gaps of my knowledge. For the next Unit I will make sure to take notes on things I don't understand instead of having to be stuck and go back to them.
