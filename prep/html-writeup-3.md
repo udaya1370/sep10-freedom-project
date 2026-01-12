@@ -62,7 +62,6 @@ We thought that the command line mv would change the name of the directory. So w
 This separated the Radio buttons and allowed our radio buttons to be clear and concise.
 ### Result
 The result ended is this:
-* [Coding Challenge](https://replit.com/@calebjgarcia08/SEP-Site-toughest#index.html)
-
+* [Command line Challenge](https://classroom.google.com/c/ODAxMzIzMTE0NDAy/a/ODM3MTg0MjEwOTQz/details)
 ### Takeaways
 This coding challenge taught me how important it is to reference notes and ask others. From now on I will try to take better notes for Free Code Camp lessons and what I don't understand. When I looked for the tags I was missing in my notes they were completely missing. I had to ask Essie and Simran to help me. I noticed they were able to help me because they had comprehensive notes that completely detailed what we learned. I plan to continue to update the HTML section of my notes to fill in the gaps of my knowledge. For the next Unit I will make sure to take notes on things I don't understand instead of having to be stuck and go back to Free Code Camp. 
