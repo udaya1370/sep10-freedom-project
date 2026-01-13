@@ -8,7 +8,7 @@
 ### Section: Context
  In the software engineering program so far we started to learn CLI and CLI commands. learning CLI was incredibly important due to us using for the rest of the year CLI we will be using it to complete assignments and other things. The goal was to be able to understand CLI to learn how to use cs50.dev . When learning CLI we learned it stands for Command lline-interface, and how important it is for every assignment we may do in the future. We learned,
 * (ls) which lists the current files we are currently on at the time to check where we are in between files like double checking
-* (mkdir) which make a directory like a file to work with and youcan name it to what you want it to be named.
+* (mkdir) which make a directory like a file to work with and you can name it to what you want it to be named.
 * (rmdir) which is to remove a directory/file which is important to understand just in case you made a file or directory you dont want
 * (mv) which renames another file only if one of two files already exist but if both files exist the first file you put would go under the second file you put
 * (rm -rf) which delete the directory you put next to it and deletes whatever is in it no matter what.
