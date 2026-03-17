@@ -1,7 +1,7 @@
 # Entry 4
 ##### X/X/XX
 
-<title>Blog 4</title>
+Blog 4
 
 
 
